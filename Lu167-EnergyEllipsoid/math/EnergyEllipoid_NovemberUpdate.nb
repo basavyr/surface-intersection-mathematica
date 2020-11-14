@@ -3,10 +3,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[         0,          0]
-NotebookDataLength[     42900,       1077]
+NotebookDataLength[     42724,       1075]
 NotebookOptionsPosition[     39454,       1004]
-NotebookOutlinePosition[     39966,       1021]
-CellTagsIndexPosition[     39923,       1018]
+NotebookOutlinePosition[     39790,       1019]
+CellTagsIndexPosition[     39747,       1016]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -1005,9 +1005,7 @@ Cell[BoxData[
 WindowSize->{960, 1035},
 WindowMargins->{{Automatic, 0}, {Automatic, 0}},
 FrontEndVersion->"12.0 for Mac OS X x86 (64-bit) (April 8, 2019)",
-StyleDefinitions->FrontEnd`FileName[{$RootDirectory, "Applications", 
-   "Mathematica.app", "Contents", "SystemFiles", "FrontEnd", "StyleSheets"}, 
-  "Times_Basavyr_Unique.nb", CharacterEncoding -> "UTF-8"]
+StyleDefinitions->"Default.nb"
 ]
 (* End of Notebook Content *)
 
